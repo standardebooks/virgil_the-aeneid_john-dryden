@@ -1,2 +1,40 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+[epub|type~="preamble"] > header p{
+	text-align: center;
+	font-variant: small-caps;
+	font-style: normal;
+}
+
+[epub|type~="preamble"] p{
+	font-style: italic;
+}
+
+[epub|type~="preamble"]{
+	margin-bottom: 3em;
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+/* Indent the first line of stanzas. */
+[epub|type~="z3998:poem"] p > span:first-child{
+	text-indent: 0;
+}
