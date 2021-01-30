@@ -39,11 +39,12 @@
 }
 
 [epub|type~="z3998:poem"] p > span:first-child{
-	/* Indent the first line of stanzas. */
+	/* Prevents indent in first stanza. */
 	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] header + p > span:first-child{
+	/* Indent the first line of stanzas. */
 	text-indent: -1em;
 }
 /* End epic poem adjustments */
