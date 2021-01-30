@@ -39,9 +39,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103295</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">This Latin epic poem follows Aeneis as he flees the city of Troy with his father and young son.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; epic poem begins with Aeneis fleeing the ruins of Troy with his father Anchises and his young son Ascanius and plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneis will one day destroy Carthage, Juno’s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneis makes his way towards his new home he encounters Dido, Carthage’s queen, and falls deeply in love.&lt;/p&gt;
+			&lt;p&gt;Although “the modern appreciation of the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; and the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;Odyssey&lt;/a&gt;&lt;/i&gt; has tended to carry with it a depreciation of the &lt;i&gt;Aeneid&lt;/i&gt;,” stated Charles W. Elliot, this epic poem continues to inspire artists, writers, and musicians after centuries of its creation. John Dryden’s translation captures the musicality of the original Latin verses while avoiding the stumbling noise made when an English translation is forced into dactylic hexameter.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/228</dc:source>
