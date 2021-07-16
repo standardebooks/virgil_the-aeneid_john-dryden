@@ -40,6 +40,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103295</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; epic poem begins with Aeneas fleeing the ruins of Troy with his father Anchises and his young son Ascanius, with a plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneas will one day destroy Carthage, Juno’s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneas makes his way towards his new home he encounters Dido, Carthage’s queen, and falls deeply in love.&lt;/p&gt;
