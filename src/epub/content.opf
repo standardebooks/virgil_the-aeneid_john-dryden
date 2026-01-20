@@ -49,7 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/228</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009788560</dc:source>
-		<meta property="se:word-count">113433</meta>
+		<meta property="se:word-count">107548</meta>
 		<meta property="se:reading-ease.flesch">71.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aeneid</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virgil_the-aeneid_john-dryden</meta>
