@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="local.css">
-		<ignore>
-			<code>c-009</code>
+		<ignore code="c-009">
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
