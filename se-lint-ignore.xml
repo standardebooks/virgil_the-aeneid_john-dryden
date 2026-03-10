@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="local.css">
 		<ignore code="c-009">
+			<line>5</line>
+			<line>36</line>
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
