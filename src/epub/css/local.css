@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Bridgehead */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -33,7 +33,7 @@
 /* End poem */
 
 /* Epic poem adjustments */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	/* Override text-align: initial; imposed by the parent z3998:poem style */
 	text-align: justify !important;
 }
