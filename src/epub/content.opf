@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden</dc:identifier>
 		<dc:date>2021-02-04T22:32:39Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="schema:genre">Poetry</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The legendary hero Aeneas flees the city of Troy with his father and young son, and travels to Italy to become the ancestor of the Romans.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; epic poem begins with Aeneas fleeing the ruins of Troy with his father Anchises and his young son Ascanius, with a plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneas will one day destroy Carthage, Juno’s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneas makes his way towards his new home he encounters Dido, Carthage’s queen, and falls deeply in love.&lt;/p&gt;
 			&lt;p&gt;Although Charles W. Elliot stated that “the modern appreciation of the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"&gt;Iliad&lt;/a&gt;&lt;/i&gt; and the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"&gt;Odyssey&lt;/a&gt;&lt;/i&gt; has tended to carry with it a depreciation of the &lt;i&gt;Aeneid&lt;/i&gt;,” this epic poem continues to inspire artists, writers, and musicians centuries after its first telling. John Dryden’s translation captures the musicality of the original Latin verses while avoiding the stumbling of an English translation forced into dactylic hexameter.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/228</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009788560</dc:source>
